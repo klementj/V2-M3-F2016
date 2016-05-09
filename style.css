@@ -1,0 +1,53 @@
+nav{
+	background-image: url(img/navigation_background.png);
+
+}
+
+#main {
+	background-image: url(img/main_background.png);
+
+}
+
+footer {
+	background-image: url(img/footer_background.png);
+	height: 55px;
+}
+
+footer p{
+	padding-top: 15px;
+}
+
+.navbar{
+	min-height: 150px;
+	margin-bottom: 0px;
+	border: 0;
+
+}
+
+.nav a {
+	text-transform: uppercase;
+	margin-top: 32px;
+	font-weight: bold;
+}
+
+
+
+.carousel img{
+	width: 100%;
+}
+
+#bottom-row{
+	padding-top: 25px;
+}
+
+.thumbnail{
+	border-radius: 0px;
+}
+
+.thumbnail img{
+	width: 100%;
+}
+
+body{
+	background-color: #f1f1f1;
+}
